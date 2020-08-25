@@ -1,4 +1,4 @@
-### Namaste(  नमस्ते ) , Sandeep Shukla Here!  👋
+### Namaste(  नमस्ते 🙏) , Sandeep Shukla Here!  👋
 I'm an extremely organized person who is focused on producing results. While I am always realistic when setting goals, I
 consistently develop ways to efficiently achieve, and often exceed, those goals.I am known for being a great listener and
 clear communicator, whether I'm engaging with colleagues or interacting with anyone.
