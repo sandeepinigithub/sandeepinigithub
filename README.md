@@ -3,4 +3,4 @@
 My Technical Skills are : 
 
 - Nodejs, Express, MongoDB, Javascript,Flutter(Basic), C++(Coding -Basic)
-- I’m currently learning Reactjs
+- I’m currently learning Angular
