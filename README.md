@@ -2,5 +2,5 @@
 
 My Technical Skills are : 
 
-- Angular, Nodejs, Express, MongoDB, Javascript,Flutter(Basic), C++(Coding -Basic)
+- Angular, React.js, Nodejs, Express, Javascript,Flutter(Basic), C++(Coding -Basic)
 - I’m currently learning Blockchain(Solidity)
