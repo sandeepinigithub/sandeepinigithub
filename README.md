@@ -1,6 +1,26 @@
-### Namaste(  नमस्ते 🙏) , Sandeep Shukla Here!  👋
+### Hey there 👋 I'm Sandeep Shukla
 
-My Technical Skills are : 
+🚀 Full Stack Engineer | Angular Specialist | AI Enthusiast
 
-- Angular, React.js, Nodejs, Express, Javascript,Flutter(Basic), C++(Coding -Basic)
-- I’m currently learning Blockchain(Solidity) and GoLang
+💼 5+ years of experience building enterprise-scale applications.
+
+#### ⚡ Tech Stack
+
+Angular • React • TypeScript • JavaScript • Node.js • Express.js • PostgreSQL • MongoDB
+
+#### 🤖 AI & Generative AI
+
+LangChain • LangGraph • AI Agents • RAG • LLM Integration • Prompt Engineering
+
+#### 🌱 Currently Learning
+
+Go (Golang) • Distributed Systems • Cloud Technologies
+
+#### 📈 What I Love Building
+
+- Scalable Web Applications
+- AI-Powered Products
+- Modern Frontend Architectures
+- Developer Productivity Tools
+
+⭐ Always open to collaborating on interesting projects.
